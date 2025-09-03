@@ -7,3 +7,5 @@ jupyter>=1.0.0
 ipython>=8.0.0
 setuptools>=65.0.0
 wheel>=0.40.0
+joblib>=1.2.0
+EOL
